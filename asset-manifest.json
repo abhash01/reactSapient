@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abhash01/reactSapient.git/static/css/main.3a7931ec.chunk.css",
+    "main.js": "/abhash01/reactSapient.git/static/js/main.33482617.chunk.js",
+    "main.js.map": "/abhash01/reactSapient.git/static/js/main.33482617.chunk.js.map",
+    "runtime-main.js": "/abhash01/reactSapient.git/static/js/runtime-main.99ee4a25.js",
+    "runtime-main.js.map": "/abhash01/reactSapient.git/static/js/runtime-main.99ee4a25.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/abhash01/reactSapient.git/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.6154f00c.chunk.js": "/abhash01/reactSapient.git/static/js/2.6154f00c.chunk.js",
+    "static/js/2.6154f00c.chunk.js.map": "/abhash01/reactSapient.git/static/js/2.6154f00c.chunk.js.map",
+    "index.html": "/abhash01/reactSapient.git/index.html",
+    "precache-manifest.7a79a7e4f2085efb1d4607e2bddc1c27.js": "/abhash01/reactSapient.git/precache-manifest.7a79a7e4f2085efb1d4607e2bddc1c27.js",
+    "service-worker.js": "/abhash01/reactSapient.git/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/abhash01/reactSapient.git/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.3a7931ec.chunk.css.map": "/abhash01/reactSapient.git/static/css/main.3a7931ec.chunk.css.map",
+    "static/js/2.6154f00c.chunk.js.LICENSE.txt": "/abhash01/reactSapient.git/static/js/2.6154f00c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99ee4a25.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.6154f00c.chunk.js",
+    "static/css/main.3a7931ec.chunk.css",
+    "static/js/main.33482617.chunk.js"
+  ]
+}
